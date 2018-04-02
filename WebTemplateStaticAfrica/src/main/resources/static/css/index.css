@@ -17,7 +17,7 @@ body
 #Layer2
 {
    background-color: transparent;
-   background-image: url(images/thailand-elephant-sunset-nature-68550.jpeg);
+   background-image: url(/images/thailand-elephant-sunset-nature-68550.jpeg);
    background-repeat: repeat;
    background-position: left top;
    background-attachment: fixed;
@@ -404,7 +404,7 @@ body
 #Layer3
 {
    background-color: transparent;
-   background-image: url(images/ed7f840323fd3c699d972bd6ce244960.jpg);
+   background-image: url(/images/ed7f840323fd3c699d972bd6ce244960.jpg);
    background-repeat: repeat;
    background-position: left top;
    background-attachment: fixed;
@@ -1023,7 +1023,7 @@ body
    border: 1px #5A1C03 solid;
    border-radius: 4px;
    background-color: transparent;
-   background-image: url(images/index_Button1_bkgrnd.png);
+   background-image: url(/images/index_Button1_bkgrnd.png);
    background-repeat: repeat-x;
    background-position: left top;
    color: #FFFFFF;
