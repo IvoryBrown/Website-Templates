@@ -1,2 +1,2 @@
-# Africa WebPAge
+# Africa WebPage
 ## HTML, CSS, jQuery, JPG
